@@ -36,3 +36,21 @@ Unlike standard prediction projects, this application implements **two contrasti
 ├── requirements.txt         # List of dependencies
 └── assets/
     └── images/              # Visualizations used in the report & app
+## 📊 Visualizations
+
+The project generates several insights into the data:
+
+**Correlation Heatmap**  
+**Glucose vs Outcome**
+
+<img src="assets/images/viz1_correlation.png" width="400">
+<img src="assets/images/viz3_glucose_box.png" width="400">
+
+---
+
+## ⚙️ How to Run Locally
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/YOUR_USERNAME/diabetes-prediction-app.git
+cd diabetes-prediction-app
